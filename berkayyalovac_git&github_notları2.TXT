@@ -1,0 +1,9 @@
+-versiyon düzenlemesi yapılır
+
+-değişiklikleri kontrol etme kolaylığı sağlar
+
+-repository=>projeyle alakalı dosyaların ve klasörlerin depolandığı konum
+
+-kod okumak çok önemlidir
+
+-
